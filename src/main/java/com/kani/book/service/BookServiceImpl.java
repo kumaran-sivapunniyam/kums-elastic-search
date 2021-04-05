@@ -1,4 +1,4 @@
-package com.mkyong.book.service;
+package com.kani.book.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -8,8 +8,8 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 
-import com.mkyong.book.model.Book;
-import com.mkyong.book.repository.BookRepository;
+import com.kani.book.model.Book;
+import com.kani.book.repository.BookRepository;
 
 @Service
 public class BookServiceImpl implements BookService {

@@ -1,8 +1,9 @@
-package com.mkyong.book.service;
+package com.kani.book.service;
 
-import com.mkyong.book.model.Book;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
+
+import com.kani.book.model.Book;
 
 import java.util.List;
 

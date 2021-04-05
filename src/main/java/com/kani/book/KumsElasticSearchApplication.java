@@ -1,4 +1,4 @@
-package com.mkyong.book;
+package com.kani.book;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 
-import com.mkyong.book.model.Book;
-import com.mkyong.book.service.BookService;
+import com.kani.book.model.Book;
+import com.kani.book.service.BookService;
 
 @SpringBootApplication
 public class KumsElasticSearchApplication  {

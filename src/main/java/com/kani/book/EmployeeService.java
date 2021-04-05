@@ -1,4 +1,4 @@
-package com.mkyong.book;
+package com.kani.book;
 
 import java.util.List;
 
@@ -28,8 +28,8 @@ public class EmployeeService {
 		}
 
 		Employee e = new Employee();
-		e.setEmpid(id);
-		e.setName(name);
+		//e.setEmpid(id);
+		//e.setName(name);
 
 		// List<IndexQuery> queries = new ArrayList<>();
 		IndexQuery indexQuery = new IndexQuery();

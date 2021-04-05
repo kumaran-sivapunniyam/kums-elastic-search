@@ -1,4 +1,4 @@
-package com.mkyong.book.model;
+package com.kani.book.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;

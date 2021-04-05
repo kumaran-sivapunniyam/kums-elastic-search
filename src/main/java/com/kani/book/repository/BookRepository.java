@@ -1,9 +1,10 @@
-package com.mkyong.book.repository;
+package com.kani.book.repository;
 
-import com.mkyong.book.model.Book;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
+
+import com.kani.book.model.Book;
 
 import java.util.List;
 
