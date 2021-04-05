@@ -13,7 +13,7 @@
 	<artifactId>kums-elastic-search</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>kums-elasticsearch</name>
-	<description>kums-elasticsearch</description>
+	<description>kums-elastic-search</description>
 
 	<properties>
 		<java.version>1.8</java.version>
