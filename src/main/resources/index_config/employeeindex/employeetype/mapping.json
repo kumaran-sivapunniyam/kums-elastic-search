@@ -1,0 +1,12 @@
+{
+	"properties": {
+		"empid": {
+			"type": "keyword",
+			"normalizer": "ignore_case_normalizer"
+		},
+		"name": {
+			"type": "keyword",
+			"normalizer": "ignore_case_normalizer"
+		}
+	}
+}
