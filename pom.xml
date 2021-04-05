@@ -9,11 +9,11 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>kums-hazelcast-demo</artifactId>
+	<groupId>com.kani</groupId>
+	<artifactId>kums-elastic-search</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>kums-elastic-search</name>
-	<description>kums-elastic-search</description>
+	<name>kums-elasticsearch</name>
+	<description>kums-elasticsearch</description>
 
 	<properties>
 		<java.version>1.8</java.version>
